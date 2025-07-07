@@ -1,6 +1,6 @@
 # **test, *проверка***
 
-![зигбя](assets\20250707_172731_logo-bazar-sale.png)![смазка](assets\20250707_172726_lora1.jpg)
+![зигбя](images\logo-bazar-sale.png)![смазка](assets\20250707_172726_lora1.jpg)
 
 ~~65465465~~
 
