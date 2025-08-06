@@ -38,9 +38,6 @@ fkdjgs**dskghlk**shgklsdfg
 | 1     |            |            |
 |       | 3          | 4          |
 
-
-![p2-p7](images\p2_p7.jpg)
-
-
+![p2-p7](images/p2_p7.jpg)
 
 [](https://)
