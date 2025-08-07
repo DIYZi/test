@@ -37,11 +37,10 @@ fkdjgs**dskghlk**shgklsdfg
 https://yoomoney.ru/to/410013422550532
 https://yoomoney.ru/fundraise/1C0AC5OMGQH.250807
 
-
 ### донат Yoomoney
 
-![Yoomoney](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&) 
-
+[![Yoomoney](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
+![Yoomoney](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
 
 ### Статистика на GitHub
 
