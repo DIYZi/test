@@ -38,7 +38,7 @@ https://yoomoney.ru/to/410013422550532
 https://yoomoney.ru/fundraise/1C0AC5OMGQH.250807
 
 <div align="center">  
- <iframe src="https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&" width="500" height="480" frameborder="0" allowtransparency="true" scrolling="no"></iframe>  
+![Yoomoney](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&) 
 </div>
 
 ### Статистика на GitHub
