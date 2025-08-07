@@ -33,6 +33,16 @@ fkdjgs**dskghlk**shgklsdfg
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/xxxxxx)
 [![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/DIYZi)
 
+https://yoomoney.ru/to/410013422550532  
+https://yoomoney.ru/fundraise/1C0AC5OMGQH.250807  
+
+<div align="center">
+<iframe src="https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&" width="500" height="480" frameborder="0" allowtransparency="true" scrolling="no">
+</iframe>
+</div>
+
+
+
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYZi&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
