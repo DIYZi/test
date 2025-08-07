@@ -39,8 +39,7 @@ https://yoomoney.ru/fundraise/1C0AC5OMGQH.250807
 
 ### донат Yoomoney
 
-[![Yoomoney](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
-![Yoomoney](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
+[![Yoomoney](https://img.shields.io/badge/%D0%AE%20money-8A2BE2?style=for-the-badge)](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
 
 ### Статистика на GitHub
 
