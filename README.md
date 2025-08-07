@@ -39,7 +39,7 @@ https://yoomoney.ru/to/410013422550532
 ### донат Yoomoney/Boosty
 
 [![Yoomoney](https://img.shields.io/badge/%D0%AE%20money-8A2BE2?style=for-the-badge)](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
-[![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/diyzi/donate)
+[![Boosty](https://img.shields.io/badge/-Boosty-F15F2C?style=for-the-badge)](https://boosty.to/diyzi/donate)
 
 ### Статистика на GitHub
 
