@@ -25,3 +25,6 @@ fkdjgs**dskghlk**shgklsdfg
 
 ![1sae](images/z2m.jpg)
 
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Novgorod_DIYZi)
+
+
