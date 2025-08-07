@@ -27,12 +27,12 @@ fkdjgs**dskghlk**shgklsdfg
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Novgorod_DIYZi)
-[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/ITDoctor)
-[![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel/23500045/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
-[![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
-[![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
+[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/xxxxxxx)
+[![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel/11111111/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/DIYZi)
+[![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/xxxxxx)
+[![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/DIYZi)
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYZi&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
