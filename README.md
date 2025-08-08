@@ -1,5 +1,8 @@
-<div align="center">
+
 # Zigbee coordinator DIY V4.1
+
+<div align="center">
+![stick V4.1](images/v4-3.jpg)
 </div>
 
 
