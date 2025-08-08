@@ -1,4 +1,7 @@
-# **test, *проверка***
+<div align="center">
+# Zigbee coordinator DIY V4.1
+</div>
+
 
 ![зигбя](images/logo-bazar-sale.png)![смазка](images/lora1.jpg)
 
@@ -34,7 +37,6 @@ fkdjgs**dskghlk**shgklsdfg
 [![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/DIYZi)
 
 https://yoomoney.ru/to/410013422550532
-
 
 ### донат Yoomoney/Boosty
 
