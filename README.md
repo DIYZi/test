@@ -1,9 +1,9 @@
 
 # Zigbee coordinator DIY V4.1
 
-<div align="center">
+
 ![stick V4.1](images/v4-3.jpg)
-</div>
+
 
 
 ![зигбя](images/logo-bazar-sale.png)![смазка](images/lora1.jpg)
