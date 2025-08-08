@@ -24,3 +24,10 @@ https://yoomoney.ru/to/410013422550532
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYZi&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
+[![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/11111) 
+[![badges](https://badges.aleen42.com/src/github.svg)](https://github.com/sponsors/DIYZi)
+[![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/DIYZi) 
+
+[![badges](https://badges.aleen42.com/src/wechat.svg)](https://github.com/xyzroe/xyzroe/blob/main/wechat.png)
+[![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Novgorod_DIYZi) 
+[![badges](https://badges.aleen42.com/src/whatsapp.svg)](https://github.com/xyzroe/xyzroe/blob/main/whatsapp.png)
