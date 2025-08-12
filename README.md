@@ -1,6 +1,6 @@
 # Через тернии в счастливый Zigbee
 
-![ZigbeeNET](images\zigbee-net.jpeg)
+![ZigbeeNET](images/zigbee-net.jpeg)
 
 ---
 
