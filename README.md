@@ -1,12 +1,12 @@
-# Через тернии в счастливый Zigbee
+# Как превратить IKEA VINDRIKTNING в Zigbee датчик
 
 <div align="center">
-<img width="50%" src="./images/zigbee-net.jpeg">
+<img width="50%" src="./images/ikea-1.jpg">
 </div>
 
 ---
 
-### Подробно о тайном в [Wiki](https://github.com/DIYZi/test/wiki)
+### IKEA VINDRIKTNING CO2/TVOC/PM2.5 датчик [Wiki](https://github.com/DIYZi/test/wiki)
 
 ---
 
