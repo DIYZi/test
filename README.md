@@ -2,7 +2,7 @@
 
 ![ZigbeeNET](images/zigbee-net.jpeg)
 <div align="center">
-<img width="50%" src="./zigbee-net.jpeg">
+<img width="10%" src="./zigbee-net.jpeg">
 </div>
 
 ---
