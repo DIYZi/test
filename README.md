@@ -6,7 +6,7 @@
 
 ---
 
-### IKEA VINDRIKTNING CO2/TVOC/PM2.5 датчик [Wiki](https://github.com/DIYZi/test/wiki)
+### IKEA VINDRIKTNING CO2/TVOC/PM2.5 Zigbee датчик [Wiki](https://github.com/DIYZi/test/wiki)
 
 ---
 
