@@ -1,6 +1,5 @@
 # Через тернии в счастливый Zigbee
 
-![ZigbeeNET](images/zigbee-net.jpeg)
 <div align="center">
 <img width="50%" src="./images/zigbee-net.jpeg">
 </div>
