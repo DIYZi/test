@@ -1,7 +1,7 @@
 # Zigbee coordinator DIY V5 EFR32MG21
 
 <div align="center">
-<img width="50%" src="./images/v5.jpg">
+<img width="80%" src="./images/v5.jpg">
 </div>
 
 ---
