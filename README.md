@@ -1,12 +1,12 @@
-# Как превратить IKEA VINDRIKTNING в Zigbee датчик
+# Zigbee coordinator DIY V5 EFR32MG21
 
 <div align="center">
-<img width="50%" src="./images/ikea-1.jpg">
+<img width="50%" src="./images/v5.jpg">
 </div>
 
 ---
 
-### IKEA VINDRIKTNING CO2/TVOC/PM2.5 Zigbee датчик [Wiki](https://github.com/DIYZi/test/wiki)
+### Full documentation is published on [Wiki](https://github.com/DIYZi/test/wiki)
 
 ---
 
