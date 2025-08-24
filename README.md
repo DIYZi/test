@@ -1,7 +1,7 @@
-# Zigbee coordinator DIY V5 EFR32MG21
+# Zigbee relay 8x channel CC2652P/PTVO
 
 <div align="center">
-<img width="80%" src="./images/v5.jpg">
+<img width="80%" src="./images/RFS_R8X.jpg">
 </div>
 
 ---
