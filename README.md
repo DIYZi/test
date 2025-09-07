@@ -1,7 +1,7 @@
-# Zigbee relay 8x channel CC2652P/PTVO
+# Zigbee temperature sensor 8x channel CC2652P/PTVO
 
 <div align="center">
-<img width="60%" src="./images/RFS_R8X.jpg">
+<img width="60%" src="./images/RFS_DS8x_wiki">
 </div>
 
 ---
