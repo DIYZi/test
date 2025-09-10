@@ -1,7 +1,7 @@
-# Zigbee climate sensor CO2 CC2652P/PTVO
+# Zigbee Watermeter V2.2 - meter for two channels + two leak sensors
 
 <div align="center">
-<img width="80%" src="./images/RFS_CC2652_CO2_wiki.jpg">
+<img width="80%" src="./images/ZTU_WM_wiki.jpg">
 </div>
 
 ---
