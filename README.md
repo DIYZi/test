@@ -1,4 +1,4 @@
-# Zigbee coordinator Zigsstar LAN V3.1
+# Zigbee coordinator Zigstar LAN V3.1
 
 <div align="center">
 <img width="80%" src="./images/RFS_CC2652_ZIGSTAR_wiki.jpg">
