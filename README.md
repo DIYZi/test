@@ -1,7 +1,7 @@
-# Zigbee Watermeter V2.2 meter + leak sensors
+# Zigbee coordinator Zigsstar LAN V3.1
 
 <div align="center">
-<img width="80%" src="./images/ZTU_WM_wiki.jpg">
+<img width="80%" src="./images/RFS_CC2652_ZIGSTAR_wiki.jpg">
 </div>
 
 ---
