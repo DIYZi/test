@@ -1,7 +1,7 @@
-# Xiaomi base for pcb DGNWG05LM/ZHWG11LM gateways
+# Air Quality Monitor Zigbee
 
 <div align="center">
-<img width="80%" src="./images/xiaomi_HOMEd_wiki.jpg">
+<img width="80%" src="./images/AQM_wiki.jpg">
 </div>
 
 ---
